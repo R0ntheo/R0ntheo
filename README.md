@@ -2,8 +2,8 @@ Hi, I’m @R0ntheo.
 
 Currently freelance web developer looking for a job in the blockchain industry. 
 
-Confortable with React, Python, NodeJs, SQL and Docker.
-Improving Go, Solidity and blockchain skills.
+Confortable with **React**, **Python**, **NodeJs**, **SQL** and **Docker**.
+Improving **Go**, **Solidity** and **blockchain skills**.
 
 <!---
 R0ntheo/R0ntheo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
